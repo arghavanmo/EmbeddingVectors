@@ -18,7 +18,7 @@ model = Doc2Vec.load("dev2vec_repos")
 model = Doc2Vec.load("dev2vec_issues")
 ```
 
-The model that is used to generated embedding vectors for dev2vec:APIs is the pretrain model from the article <a href="https://ieeexplore.ieee.org/abstract/document/9401957?casa_token=G8DjJLSm2sQAAAAA:3h8AEP8d0XLzSgHaVkSal9k7AyQ1pfXt18uuCCeIyiCMEmEKqlkgR1xsaoJj-iJIbGVP-hbeRg"><strong>Representation of Developer Expertise in Open Source Software</strong></a> <br />
+The model that is used to generated embedding vectors for dev2vec:APIs is the pretrained model from the article <a href="https://ieeexplore.ieee.org/abstract/document/9401957?casa_token=G8DjJLSm2sQAAAAA:3h8AEP8d0XLzSgHaVkSal9k7AyQ1pfXt18uuCCeIyiCMEmEKqlkgR1xsaoJj-iJIbGVP-hbeRg"><strong>Representation of Developer Expertise in Open Source Software</strong></a> <br />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 ## Citation
