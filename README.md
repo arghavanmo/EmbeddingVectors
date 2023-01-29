@@ -7,8 +7,20 @@ These vectors are learned based on dov2vec model that is trained on three differ
 We name these models: dev2vec:repos, dev2vec:Issues and dev2vec:APIs <br />
 
 You can download the two models dev2vec:repos and dev2vec:Issues from <a href="https://doi.org/10.5281/zenodo.7580313"><strong>here</strong></a> <br />
+After downloading, you can load them in your envirement:
+1. dev2vec:repos --> model = Doc2Vec.load("dev2vec_repos")
+2. dev2vec:issues --> model = Doc2Vec.load("dev2vec_issues")
 
 The model that is used to generated embedding vectors for dev2vec:APIs is the pretrain model from the article <a href="https://ieeexplore.ieee.org/abstract/document/9401957?casa_token=G8DjJLSm2sQAAAAA:3h8AEP8d0XLzSgHaVkSal9k7AyQ1pfXt18uuCCeIyiCMEmEKqlkgR1xsaoJj-iJIbGVP-hbeRg"><strong>Representation of Developer Expertise in Open Source Software</strong></a> <br />
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
+You can cite this work as: <br />
+
+@article{dakhel2022dev2vec,
+  title={Dev2vec: Representing Domain Expertise of Developers in an Embedding Space},
+  author={Dakhel, Arghavan Moradi and Desmarais, Michel C and Khomh, Foutse},
+  journal={arXiv preprint arXiv:2207.05132},
+  year={2022}
+}
+
     
