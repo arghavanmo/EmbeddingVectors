@@ -16,11 +16,11 @@ The model that is used to generated embedding vectors for dev2vec:APIs is the pr
 -------------------------------------------------------------------------------------------------------------------------------------------------
 You can cite this work as: <br />
 
-@article{dakhel2022dev2vec,
-  title={Dev2vec: Representing Domain Expertise of Developers in an Embedding Space},
-  author={Dakhel, Arghavan Moradi and Desmarais, Michel C and Khomh, Foutse},
-  journal={arXiv preprint arXiv:2207.05132},
-  year={2022}
+@article{dakhel2022dev2vec,<br />
+  title={Dev2vec: Representing Domain Expertise of Developers in an Embedding Space},<br />
+  author={Dakhel, Arghavan Moradi and Desmarais, Michel C and Khomh, Foutse},<br />
+  journal={arXiv preprint arXiv:2207.05132},<br />
+  year={2022}<br />
 }
 
     
